@@ -2,6 +2,13 @@
 ML Python Project
 
 
+---------------------------------------------------------------------------------------
+
+Note :- All the code in this project has been tested and run successfully in Google Colab. I encourage you to try running it in Colab for the best experience and to ensure smooth execution. Happy coding!
+
+---------------------------------------------------------------------------------------
+
+
 This code is an example of using a Random Forest Regressor to predict car prices based on a given dataset. Here's an explanation of each step:
 
 1. Importing libraries and reading data:
